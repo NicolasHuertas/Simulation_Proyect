@@ -1,3 +1,7 @@
+#Author: Nicolas Fernando Huertas Cadavid
+#University of Valle
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import interpolate
